@@ -35,9 +35,3 @@ Here are some example sections you can fill with your own work:
 - **Character concepts** – expressive poses and outfits  
 - **Environment pieces** – mood-driven scenes and lighting  
 - **Fan art** – reimagining characters in my own style  
-
-You can add images like this (replace with your own file paths):
-
-```markdown
-![Forest illustration](assets/forest-illustration.png)
-![Character concept](assets/character-concept.png)
